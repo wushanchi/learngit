@@ -1,1 +1,2 @@
-This is an another documents for learning git.
+This is an another documents for learning git created by wushanchi.
+I add a line in this file.
